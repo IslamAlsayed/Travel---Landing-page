@@ -1,6 +1,6 @@
 ## Travel - Landing page
 
-### (Live demo)[https://islamalquraishi.github.io/Travel-landing-page]
+### (Live demo)[https://islamalsayed.github.io/Travel-landing-page]
 
 ## Dependencies
 
