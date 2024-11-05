@@ -1,10 +1,6 @@
 ## Travel - Landing page
 
-<<<<<<< HEAD
-### (Live demo)[https://islamalsayed.github.io/Travel-landing-page]
-=======
-### [Live demo](https://islamalquraishi.github.io/Travel-landing-page)
->>>>>>> 746819dca532103d4781c412fb69da98fcc250ac
+### [Live demo](https://islamalsayed.github.io/Travel-landing-page)
 
 ## Dependencies
 
